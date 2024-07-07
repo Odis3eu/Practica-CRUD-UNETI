@@ -1,0 +1,21 @@
+CRUD APP CON SQLITE
+
+Esta aplicación CRUD (Create, Read, Update, Delete) está desarrollada en Python utilizando Tkinter para la interfaz gráfica y SQLite para la base de datos. La aplicación permite gestionar un sencillo conjunto de datos con registros Y funciones de agregar, modificar, eliminar y consultar registros.
+
+Requisitos
+
+- Python 3.x
+- Tkinter (generalmente incluido con Python)
+- SQLite3 (generalmente incluido con Python)
+
+Uso
+
+Para ejecutar la aplicación, simplemente ejecuta el archivo principal del programa:
+
+CRUD.EXE
+
+o tambien puede ejecutarlo desde el archivo principal database.py corriendo el codigo.
+
+AUTOR: DIEGO HERNANDEZ
+CEDULA: V27.333.367
+SECCION 8A
